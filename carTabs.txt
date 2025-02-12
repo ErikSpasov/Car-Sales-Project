@@ -1,0 +1,132 @@
+Customer Name: Erik
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: First
+-----------------------
+
+Total sales: 8000.0 £
+
+Customer Name: Erik
+Car Sales: 0.00 £
+Discount Given: 0.0 £
+Feedback: 
+-----------------------
+
+Customer Name: John
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: Secon
+-----------------------
+
+Total sales: 8000.0 £
+
+Customer Name: Erik
+Car Sales: 0.00 £
+Discount Given: 0.0 £
+Feedback: 
+-----------------------
+
+Customer Name: erik
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: fgd
+-----------------------
+
+Total sales: 8000.0 £
+
+Customer Name: Erik
+Car Sales: 0.00 £
+Discount Given: 0.0 £
+Feedback: 
+-----------------------
+
+Customer Name: Erik
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: New try
+-----------------------
+
+Customer Name: Jphn
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: Second try
+-----------------------
+
+Total sales: 38000.0 £
+
+Total sales: 0.0 £
+
+Customer Name: er
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: bbb
+-----------------------
+
+Customer Name: john
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: gggg
+-----------------------
+
+Total sales: 38000.0 £
+
+Customer Name: Erik Spasov
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: ggg
+-----------------------
+
+Total sales: 30000.0 £
+
+Customer Name: Erik Spasov
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: ggg
+-----------------------
+
+Customer Name: john
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: bbbb
+-----------------------
+
+Total sales: 38000.0 £
+
+Customer Name: Erik
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: good
+-----------------------
+
+Total sales: 8000.0 £
+
+Customer Name: Erik
+Car Sales: 8000.00 £
+Discount Given: 0.0 £
+Feedback: good
+-----------------------
+
+Customer Name: John
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: bbb
+-----------------------
+
+Total sales: 38000.0 £
+
+Customer Name: eer
+Car Sales: 21000.00 £
+Discount Given: 9000.0 £
+Feedback: ggg
+-----------------------
+
+Total sales: 21000.0 £
+
+Customer Name: Erik Spasov
+Car Sales: 30000.00 £
+Discount Given: 0.0 £
+Feedback: Dobre
+-----------------------
+
+Total sales: 30000.0 £
+
