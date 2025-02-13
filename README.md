@@ -15,6 +15,7 @@ Provide feedback on their experience
 View sales statistics, including customer details, discounts, and total sales
 
 Store and retrieve sales data from a file
+
 =======================================================================================
 
 Running the Program
@@ -30,6 +31,7 @@ Press 'a' to buy a car
 Press 'b' to view sales statistics
 
 Press 'x' to exit the program
+
 =======================================================================================
 
 Features
@@ -73,5 +75,6 @@ Saves sales details to carTabs.txt
 Reads past sales data from carTabs.txt on startup
 
 Appends new sales data to the file
+
 =======================================================================================
 
